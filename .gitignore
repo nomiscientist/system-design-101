@@ -2,6 +2,7 @@
 *.epub
 __pycache__/
 *.py[cod]
+.idea
 
 # C extensions
 *.so
@@ -41,6 +42,8 @@ htmlcov/
 nosetests.xml
 coverage.xml
 
+node_modules
+
 # Translations
 *.mo
 *.pot
@@ -62,3 +65,4 @@ scratch/
 
 # IPython Notebook templates
 template.ipynb
+config.bat
